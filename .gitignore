@@ -13,5 +13,5 @@ yarn-error.log
 
 # npm
 lib/
-
+.idea
 .yarn/install-state.gz
